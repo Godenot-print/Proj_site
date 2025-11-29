@@ -1,2 +1,0 @@
-bosta = "sydney"
-fortnite = "astolfo"
