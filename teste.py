@@ -1,1 +1,2 @@
 bosta = "sydney"
+verdade = True
